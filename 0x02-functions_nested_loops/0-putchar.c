@@ -1,10 +1,10 @@
-#include "main.h"
+#inculde "main.h"
 
 /**
 * main - the entry function
-* Return: 0 success
+* Return: 0 for success
 */
-int mai(void)
+int main(void)
 {
 	char *s;
 	int i;
@@ -12,7 +12,7 @@ int mai(void)
 	s = "_putchar\n";
 	i = 0;
 	while (s[i] != '\n')
-		_puchar(s[i++]);
+		_putchar(s[i++]);
 	_putchar('\n');
 	return (0);
 }
