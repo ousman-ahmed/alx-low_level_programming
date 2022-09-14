@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
-* main - print the string in the put function
+* main - the main function
 * Return: 0 for success
 */
 int main(void)
 {
-	puts("\"programming is like building a multilingual puzzle");
+	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
