@@ -20,5 +20,5 @@ int main(void)
 		putchar(c++);
 	}
 	putchar(nl);
-	retur (0);
+	return (0);
 }
