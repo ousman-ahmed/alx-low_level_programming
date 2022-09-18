@@ -4,13 +4,13 @@
  * main - Entry point
  * Return: 0 for success
  */
-int main(voi)
+int main(void)
 {
 	char i;
 	char nl;
 
 	i = '0';
-	nl = '\n;
+	nl = '\n';
 	while (i <= '9')
 		putchar(i++);
 	putchar(nl);
